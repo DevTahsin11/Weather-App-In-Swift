@@ -20,7 +20,7 @@ I came across numerous roadblocks and challenges when I was developing this proj
 
 SwiftUI Issues
 
-Installation:
+Installation: (Not Fixed Yet Due To XCode's Security Updates)
 
 For this project, I used XCode to implement this project and managed with many of it's security protocols in order to utilize the API source properly. Listed below are the steps on how to implement this application.
 
