@@ -264,7 +264,7 @@ struct WeatherCityView: View {
                         
                         Text(String(tempf) + "°F")
                             .bold()
-                            .position(x: 200, y: 100)
+                            .position(x: 210, y: 125)
                         //.frame(width: 80, height: 150)
                             .font(.system(size: 40))
                             .offset(y: -40)

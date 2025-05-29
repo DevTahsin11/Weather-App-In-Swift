@@ -40,7 +40,7 @@ struct ListItem: Identifiable {
     var subtitle: String
 }
 
-// List of 80+ Cities
+// List of 100+ Cities
 var cities = [
     ListItem(title: "Paris",   subtitle: "France"),
     ListItem(title: "Dubai",   subtitle: "United Arab Emirates"),
@@ -124,4 +124,27 @@ var cities = [
     ListItem(title: "Paramaribo", subtitle: "Suriname"),
     ListItem(title: "Cayenne", subtitle: "French Guiana"), // 80 Cities
     ListItem(title: "Tijuana", subtitle: "Mexico"),
+    ListItem(title: "Jakarta", subtitle: "Indonesia"),
+    ListItem(title: "Brisbane", subtitle: "Australia"),
+    ListItem(title: "Geneva", subtitle: "Switzerland"),
+    ListItem(title: "Doha", subtitle: "Qatar"),
+    ListItem(title: "Venice", subtitle: "Italy"),
+    ListItem(title: "Hanoi", subtitle: "Vietnam"),
+    ListItem(title: "Kuala Lumpur", subtitle: "Malaysia"),
+    ListItem(title: "Taipei", subtitle: "Taiwan"),
+    ListItem(title: "Houston", subtitle: "United States"), // 90 Cities
+    ListItem(title: "Beijing", subtitle: "China"),
+    ListItem(title: "Boston", subtitle: "United States"),
+    ListItem(title: "Budapest", subtitle: "Hungary"),
+    ListItem(title: "Frankfurt", subtitle: "Germany"),
+    ListItem(title: "Marseille", subtitle: "France"),
+    ListItem(title: "Naples", subtitle: "Italy"),
+    ListItem(title: "Pune", subtitle: "India"),
+    ListItem(title: "Karachi", subtitle: "Pakistan"),
+    ListItem(title: "Lahore", subtitle: "Pakistan"),
+    ListItem(title: "Ho Chi Minh City", subtitle: "Vietnam"), // 100 Cities
+    ListItem(title: "Muscat", subtitle: "Oman"),
+    ListItem(title: "Beirut", subtitle: "Lebanon"),
+    ListItem(title: "Lagos", subtitle: "Nigeria"),
+    ListItem(title: "Tunis", subtitle: "Tunisia"),
 ]
