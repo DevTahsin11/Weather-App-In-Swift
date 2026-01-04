@@ -22,7 +22,7 @@ I came across numerous roadblocks and challenges when I was developing this proj
 
 Installation: (Not Fixed Yet Due To XCode's Security Updates)
 
-For this project, I used XCode to implement this project and managed with many of it's security protocols in order to utilize the API source properly. Listed below are the steps on how to implement this application.
+Listed below are the steps on how to implement this application.
 
 1. Install XCode and create a new project.
 2. Install the files into the project. Alternatively, you can copy the code from the files and name them the way they are shown in this repository.
